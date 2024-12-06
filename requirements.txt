@@ -6,4 +6,5 @@ langchain_huggingface
 langchain_groq
 sentence-transformers
 faiss-cpu
-lxml
+lxml>=4.9.1
+
