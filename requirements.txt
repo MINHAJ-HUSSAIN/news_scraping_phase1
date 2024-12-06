@@ -1,0 +1,8 @@
+requests
+newspaper3k
+streamlit
+langchain
+langchain_huggingface
+langchain_groq
+sentence-transformers
+faiss-cpu
